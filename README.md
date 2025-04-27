@@ -5,6 +5,7 @@ Even the best Power BI users run into problems sometimes. Here’s a **handy tro
 ---
 
 ## **🔧 Common Power BI Problems & Solutions**  
+
 flowchart TD
     A[Power BI Issue] --> B{Can you open Power BI?}
     B -->|No| C[Run as Admin\nUpdate/Reinstall]
@@ -23,6 +24,7 @@ flowchart TD
     E --> N
     K --> N
     M --> N
+    
 ### **1. Power BI Won’t Open or Crashes**  
 ❌ **Issue**: Power BI Desktop crashes on startup or freezes.  
 ✅ **Fix**:  
